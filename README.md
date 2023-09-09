@@ -1,1 +1,1 @@
-![](kpt.png)
+![](logo.png)
