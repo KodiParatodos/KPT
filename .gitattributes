@@ -3,3 +3,5 @@ lite.zip filter=lfs diff=lfs merge=lfs -text
 pro_addondata.zip filter=lfs diff=lfs merge=lfs -text
 lite_addondata.zip filter=lfs diff=lfs merge=lfs -text
 prosave.zip filter=lfs diff=lfs merge=lfs -text
+TaPro_addondata.zip filter=lfs diff=lfs merge=lfs -text
+TaLite_addondata.zip filter=lfs diff=lfs merge=lfs -text
