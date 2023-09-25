@@ -5,3 +5,5 @@ lite_addondata.zip filter=lfs diff=lfs merge=lfs -text
 prosave.zip filter=lfs diff=lfs merge=lfs -text
 TaPro_addondata.zip filter=lfs diff=lfs merge=lfs -text
 TaLite_addondata.zip filter=lfs diff=lfs merge=lfs -text
+KvLite_addondata.zip filter=lfs diff=lfs merge=lfs -text
+KvPro_addondata.zip filter=lfs diff=lfs merge=lfs -text
